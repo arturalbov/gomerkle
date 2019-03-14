@@ -2,6 +2,7 @@
 
 [![version](https://img.shields.io/github/release/arturalbov/gomerkle.svg)](https://github.com/arturalbov/gomerkle/releases/latest)
 [![Coverage Status](https://coveralls.io/repos/github/arturalbov/gomerkle/badge.svg?branch=master)](https://coveralls.io/github/arturalbov/gomerkle?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/arturalbov/gomerkle)](https://goreportcard.com/report/github.com/arturalbov/gomerkle)
 [![LoC](https://tokei.rs/b1/github/arturalbov/gomerkle)](https://github.com/arturalbov/gomerkle)
 [![license](https://img.shields.io/github/license/arturalbov/gomerkle.svg)](https://github.com/arturalbov/gomerkle/blob/master/LICENSE)
 [![contributors](https://img.shields.io/github/contributors/arturalbov/gomerkle.svg)](https://github.com/arturalbov/gomerkle/graphs/contributors)
